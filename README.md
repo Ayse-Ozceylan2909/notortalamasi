@@ -1,0 +1,2 @@
+# notortalamasi
+no-ortalamasi-hesaplama
